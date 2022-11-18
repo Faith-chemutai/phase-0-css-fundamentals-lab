@@ -3,3 +3,55 @@ body {
   height: 100%;
   margin: 0;
 }
+h1 {
+  color:black;
+  text-align: center;
+}
+
+nav a{
+  
+ padding: 10px;
+   background-color:grey;
+}
+  
+  nav{
+    text-align: center;
+  
+  }        
+ p {
+  text-align: center;
+  text-size-adjust: 20px;
+  padding-left: 300px;
+  padding-right: 300px;
+ }
+ 
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 20px;
+  padding-right: 20px;
+  width: 50%;
+}
+  section{
+    text-align: center;
+  }
+
+
+
+#details{
+  float: left;
+}
+
+  
+  
+div{
+  float:left;
+  width:25%;
+  background-color:red;
+  float-size: 18px;
+  text-align: center;
+}
+
+
